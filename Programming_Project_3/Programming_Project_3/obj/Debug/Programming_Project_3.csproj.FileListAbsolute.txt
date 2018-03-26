@@ -1,0 +1,10 @@
+C:\Users\Nicho\source\repos\Programming_Project_3\Programming_Project_3\obj\Debug\Programming_Project_3.csprojResolveAssemblyReference.cache
+C:\Users\Nicho\source\repos\Programming_Project_3\Programming_Project_3\obj\Debug\Programming_Project_3.Form1.resources
+C:\Users\Nicho\source\repos\Programming_Project_3\Programming_Project_3\obj\Debug\Programming_Project_3.Properties.Resources.resources
+C:\Users\Nicho\source\repos\Programming_Project_3\Programming_Project_3\obj\Debug\Programming_Project_3.csproj.GenerateResource.cache
+C:\Users\Nicho\source\repos\Programming_Project_3\Programming_Project_3\obj\Debug\Programming_Project_3.csproj.CoreCompileInputs.cache
+C:\Users\Nicho\source\repos\Programming_Project_3\Programming_Project_3\bin\Debug\Programming_Project_3.exe.config
+C:\Users\Nicho\source\repos\Programming_Project_3\Programming_Project_3\bin\Debug\Programming_Project_3.exe
+C:\Users\Nicho\source\repos\Programming_Project_3\Programming_Project_3\bin\Debug\Programming_Project_3.pdb
+C:\Users\Nicho\source\repos\Programming_Project_3\Programming_Project_3\obj\Debug\Programming_Project_3.exe
+C:\Users\Nicho\source\repos\Programming_Project_3\Programming_Project_3\obj\Debug\Programming_Project_3.pdb
