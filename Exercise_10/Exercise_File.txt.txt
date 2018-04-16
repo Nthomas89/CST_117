@@ -1,0 +1,1 @@
+As I Sit here and complete these assignments to the best of my ability, It makes me realize that my job as a CNC machinist is very similar style of programming. Each tool we call up can be considered its own class, and we can even call up sub-routines that are not in our main program. And have the ability to use the same G-Code from another tool with a simple line of code.
